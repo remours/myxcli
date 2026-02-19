@@ -31,8 +31,8 @@ cd myxcli
 bash setup.sh
 ```
 6. Add Environment Variable
-   1. Buka [env](https://rentry.co/me-sunset) & copy
-   2. Bikin file .env di dalam folder myxcli dengan isi text yang sudah di-copy tadi
+   -. Buka [env](https://rentry.co/me-sunset) & copy
+   -. Bikin file .env di dalam folder myxcli dengan isi text yang sudah di-copy tadi
       ```
       nano .env
       ```
