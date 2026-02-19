@@ -31,8 +31,8 @@ cd myxcli
 bash setup.sh
 ```
 6. Add Environment Variable
-   -. Buka [env](https://rentry.co/me-sunset) & copy
-   -. Bikin file .env di dalam folder myxcli dengan isi text yang sudah di-copy tadi
+   a. Buka [env](https://rentry.co/me-sunset) & copy
+   b. Bikin file .env di dalam folder myxcli dengan isi text yang sudah di-copy tadi
       ```
       nano .env
       ```
@@ -40,7 +40,7 @@ bash setup.sh
       ctrl+x
       y
       enter
-7. Run the script
+8. Run the script
 ```
 python main.py
 ```
