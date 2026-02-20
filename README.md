@@ -45,9 +45,9 @@ bash setup.sh
       y
       
       enter
-8. Run the script
+~8. Run the script~
 ```
-python main.py
+~python main.py~
 ```
 9. Shortcut
 ```
