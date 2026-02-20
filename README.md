@@ -45,18 +45,18 @@ bash setup.sh
       y
       
       enter
-8. Run the script
+7. Run the script
 ```
 python main.py
 ```
-9. Add Shortcut
+8. Add Shortcut
 ```
 echo "alias myxcli='cd ~/myxcli && python main.py'" >> ~/.bashrc
 ```
 ```
 source ~/.bashrc
 ```
-10. Type myxcli to run
+9. Type myxcli to run
 ```
 myxcli
 ```
