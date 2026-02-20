@@ -47,6 +47,7 @@ bash setup.sh
       enter
      
 ~8. Run the script~
+
 ~
 ```
 python main.py~
