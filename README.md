@@ -49,6 +49,17 @@ bash setup.sh
 ```
 python main.py
 ```
+9. Shortcut
+```
+echo "alias myxcli='cd ~/myxcli && python main.py'" >> ~/.bashrc
+```
+```
+source ~/.bashrc
+```
+10. Ketik myxcli untuk menjalankan
+```
+myxcli
+```
 
 # Info
 
